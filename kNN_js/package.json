@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-knn": "^1.0.0",
+    "prompt": "^1.0.0"
+  }
+}
